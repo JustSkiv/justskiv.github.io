@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>JustSkiv&apos;s blog</title>
+        <link>http://blog.tuzov.su/</link>
+        <description>some description</description>
+        <lastBuildDate>Mon, 05 Jul 2021 23:34:15 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="http://blog.tuzov.su/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Полезные сервисы для изучения английского языка]]></title>
+            <link>http://blog.tuzov.su/post/2016/09/18/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/</link>
+            <guid>http://blog.tuzov.su/post/2016/09/18/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/</guid>
+            <pubDate>Sun, 18 Sep 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Я довольно много времени потратил на поиски полезных и интересных ресурсов, которые так или иначе
+помогали бы с изучением английского языка, перепробовал большое количество различных интересных и не
+очень сервисов. Что-то прижилось, а что-то не очень. Здесь я хочу рассказать о тех из них, которые
+прижились очень хорошо. Я пользуюсь ими теперь регулярно.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Удалённая отладка Golang]]></title>
+            <link>http://blog.tuzov.su/post/2018/08/03/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-golang/</link>
+            <guid>http://blog.tuzov.su/post/2018/08/03/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-golang/</guid>
+            <pubDate>Fri, 03 Aug 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Недавно довелось столкнуться с необходимостью отладки (запуска дебагера) программы, которая работает
+в Docker-контейнере внутри Vagrant'а. Как оказалось, сделать это достаточно просто. Далее будет
+небольшая инструкция, как этого добиться.]]></description>
+            <enclosure url="http://blog.tuzov.su/images/goland_run_config.webp">
+            </enclosure>
+        </item>
+    </channel>
+</rss>
